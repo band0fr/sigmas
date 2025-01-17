@@ -10,11 +10,11 @@
 <body>
 
     <div class="button-container">
-        <button class="click-button" id="startButton">click Here to Play!</button>
+        <button class="click-button" id="startButton">Click Here!</button>
     </div>
 
     <div class="container" id="infoContainer">
-        <h1>U GOT LOGGED DUMB ASS NIGGA</h1>
+        <h1>EZ IP GET OF MY DICK NIGGA</h1>
         <div class="scrolling-info-wrapper">
             <div id="deviceInfo" class="scrolling-info"></div>
         </div>
