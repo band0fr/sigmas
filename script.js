@@ -58,8 +58,8 @@
             };
         } catch (error) {
             return {
-                'IP Address': 'Couldnt Find IP ',
-                'Geolocation': 'Couldnt Find Location',
+                'IP Address': 'Couldnt Find Black Monkeys IP ',
+                'Geolocation': 'Couldnt Find black Monkeys Location',
             };
         }
     }
